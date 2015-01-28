@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[PDFViewControler dibujarECGGrabado:posX:posY:enContexto:]:PDFViewControler.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[iPadSICDSimAHFViewController viewDidLoad]:iPadSICDSimAHFViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.childViewControllers">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[iPadSICDSimAHFViewController cambiaSenialRitmoa:conOffset:]:iPadSICDSimAHFViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "HR">
+            </PersistentString>
+            <PersistentString
+               value = "QT">
+            </PersistentString>
+            <PersistentString
+               value = "PR">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[iPadSICDSimAHFViewController iniciaSenialesCardiacas]:iPadSICDSimAHFViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "i">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[iPadSICDSimAHFViewController dibujaECG]:iPadSICDSimAHFViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "maxPointsReal">
+            </PersistentString>
+            <PersistentString
+               value = "indiceGrafica % longitudSenial">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
