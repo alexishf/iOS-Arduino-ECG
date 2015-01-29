@@ -23,13 +23,13 @@
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "icoAppSTD_SICD2.png",
+      "filename" : "iconosSimuladorSmall.png",
       "scale" : "1x"
     },
     {
       "size" : "76x76",
       "idiom" : "ipad",
-      "filename" : "icoAppSTD_SICD2-1.png",
+      "filename" : "iconosSimuladorSmall-1.png",
       "scale" : "2x"
     }
   ],

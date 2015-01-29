@@ -115,8 +115,8 @@
 
     
     self.buttonShowRecordedEcg.enabled = YES;
-    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"Time is up!!!"
-                                                    message:@"ECG recording has stopped"
+    UIAlertView *alert = [[UIAlertView alloc] initWithTitle:@"¡Tiempo de grabación agotado!"
+                                                    message:@"La grabación del ECG se ha parado"
                                                    delegate:self
                                           cancelButtonTitle:nil
                                           otherButtonTitles:@"OK", nil];

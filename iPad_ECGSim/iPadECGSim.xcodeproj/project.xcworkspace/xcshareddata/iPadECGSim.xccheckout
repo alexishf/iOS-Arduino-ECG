@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E4E85EC5-E15B-4A66-B115-3BC788A0E70C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>iPadECGSim</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7AA52B47FE7266703DCE2937C12EAA7DABE4BE81</key>
+		<string>https://github.com/alexishf/iOS-Arduino-ECG.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iPad_ECGSim/iPadECGSim.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7AA52B47FE7266703DCE2937C12EAA7DABE4BE81</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alexishf/iOS-Arduino-ECG.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7AA52B47FE7266703DCE2937C12EAA7DABE4BE81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7AA52B47FE7266703DCE2937C12EAA7DABE4BE81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Simulador%20ECG%20MKS%20-%20AHF</string>
+		</dict>
+	</array>
+</dict>
+</plist>
